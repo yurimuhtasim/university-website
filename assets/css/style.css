@@ -5,3 +5,26 @@
 .text-small {
   font-size: 13px;
 }
+
+.wrapper-kehidupan {
+  height: 40vh;
+  background-image: url("/assets/images/kehidupan/taman.png");
+}
+
+.wa-melayang {
+  position: fixed;
+  right: 20px;
+  bottom: 100px;
+}
+
+.wa-klik {
+  display: flex;
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  font-size: 22px;
+}
